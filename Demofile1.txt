@@ -1,1 +1,2 @@
 This is my first file from the firstprj repository at the client machine
+This is the comments added by the server git repository
